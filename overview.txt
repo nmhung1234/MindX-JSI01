@@ -1,0 +1,20 @@
+điều kiện cần: Internet, VS code, account Github, Git SCM
+
+
+OverView:
+ học trong: 14 buổi
+ học lý thuyết và thực hành: 9 buổi
+ 
+ 1. Củng cố, nhắc lại kiến thức về css, js;
+
+ 2. Học thêm kiến thức về JS.
+    - Local Storage;
+    - Async/Await (Promise);
+    - API
+    - GitHub;
+
+ 3. Thực hành
+    - Trang web tĩnh (có tính tương tác cao)
+    - Login/ Logout (Sign up);
+
+ -  3 buổi làm sp cuối khóa

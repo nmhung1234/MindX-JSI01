@@ -1,0 +1,26 @@
+
+.container{
+    width: 700px;
+    height: 700px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.274);
+    border-radius: 10px;
+}
+.main{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logo{
+    height: 100px;
+    border: 2px solid blueviolet;
+}
+.services{
+    height: 100px;
+    border: 2px solid orange;
+}
+.logo img{
+    height: 100%;
+
+}
