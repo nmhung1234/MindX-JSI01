@@ -9,8 +9,7 @@ localStorage.setItem("arr", JSON.stringify(arrPeople));
 let arr = localStorage.getItem("arr");
 // let arrParsed = JSON.parse(arr);
 
-// console.log(arrParsed);
-
+// console.log(arrParsed)
 
 
 // arrParsed.map((elem) => console.log(elem))
